@@ -1,4 +1,4 @@
-```javascript
+
 const apiKey = "5725b51c36954f83c9b71ff69d984a22";
 
 async function getWeather() {
@@ -46,4 +46,3 @@ async function getWeather() {
         alert("Something went wrong");
     }
 }
-```
